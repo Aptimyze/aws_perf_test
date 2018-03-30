@@ -1,7 +1,7 @@
 # SIMPLE PERFORMANCE TESTING FOR AMAZON CLOUD
 ---
 
-A Go application to setup and command performance test instances on Amazon Cloud
+A Go application to setup and command performance tests instances on Amazon Cloud with Apache JMeter
 
 stresser.sh
 ---
