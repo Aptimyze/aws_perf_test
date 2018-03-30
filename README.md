@@ -1,7 +1,7 @@
 # SIMPLE PERFORMANCE TESTING FOR AMAZON CLOUD
 ---
 
-A Go application to setup and command performance tests instances on Amazon Cloud with Apache JMeter
+A Go application to setup and command performance tests instances on Amazon Cloud with Apache JMeter 3.1
 
 stresser.sh
 ---
@@ -18,4 +18,9 @@ logger.sh
 
 main.go
 ---
-Allow your team members to use your test suite from your local network.
+Allows your team members to use your test suite from your local network.
+
+
+register.jmx
+---
+Apache JMeter 3.1 test template
